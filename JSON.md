@@ -5,6 +5,7 @@
 * JSON is a `text format` for stroring and transporting data.
 * JSON is a 'self describing' and easy to understand
 ```json
-example: '{"name":"John","age":30, "car":null}'
+example:
+ '{"name":"John","age":30, "car":null}'
 ```
 
