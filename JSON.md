@@ -1,15 +1,8 @@
 #JSON
 =======
-## jkhkjhk
+
 * JSON stands for JavaScript Object Notation.
 * JSON is a `text format` for stroring and transporting data.
-  * jhjhjkk
-  * jgjgj
-
-  hkjkjhkjhk
-
-```
-yytutuuutuy
-
-```
+* JSON is a 'self describing' and easy to understand
+example: '{"name":"John","age":30, "car":null}'
 
